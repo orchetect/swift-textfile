@@ -1,6 +1,6 @@
 //
 //  CSV String Encode Tests.swift
-//  swift-textfile • https://github.com/orchetect/swift-textfile
+//  SwiftTextFile • https://github.com/orchetect/swift-textfile
 //  © 2026 Steffan Andrews • Licensed under MIT License
 //
 

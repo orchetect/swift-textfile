@@ -1,6 +1,6 @@
 //
 //  API-0.5.1.swift
-//  swift-textfile • https://github.com/orchetect/swift-textfile
+//  SwiftTextFile • https://github.com/orchetect/swift-textfile
 //  © 2026 Steffan Andrews • Licensed under MIT License
 //
 
